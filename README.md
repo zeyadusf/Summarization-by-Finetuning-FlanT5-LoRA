@@ -20,7 +20,7 @@
 🔗 **Notebook on Kaggle** 
 [Summarization by Finetuning FlanT5-LoRA](https://www.kaggle.com/code/zeyadusf/summarization-by-finetuning-flant5-lora)
 
-*You can know the parameter results through huggingface and kaggle*
+*You can know the hyperparameters through huggingface and kaggle*
 <hr>
 
 🚩 **Can use model through Space** [Summarizationflant5](https://huggingface.co/spaces/zeyadusf/Summarizationflant5)
